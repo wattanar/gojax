@@ -25,7 +25,7 @@ gojax(type: **string**, url: **string**, data: **object**);
 | required     | required | optional |
 
 
-gojax_j(type: **string**, url: **string**, **data**: **string**);
+gojax_f(type: **string**, url: **string**, data: **string**);
 
 | type        | url           | data  |
 | ------------- |:-------------:| -----|
