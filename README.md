@@ -19,15 +19,15 @@ gojax_f('get', '/api/user/save', '#form_id')
 ## API Ref.
 
 gojax(type: **string**, url: **string**, data: **object**);
----
+
 | type        | url           | data  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| -----|
 | required     | required | optional |
----
+
 
 gojax_j(type: **string**, url: **string**, **data**: **string**);
----
+
 | type        | url           | data  |
 | ------------- |:-------------:| -----|
 | required     | required |  required |
----
+
