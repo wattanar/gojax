@@ -14,7 +14,7 @@ Minimal Ajax Request for jQuery
 </head>
 <body>
   <!-- Content -->
-</body
+</body>
 </html>
 ```
 
