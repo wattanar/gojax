@@ -10,7 +10,7 @@ Minimal Ajax Request for jQuery
 	<meta charset="UTF-8">
 	<title>gojax example</title>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-	<link rel="stylesheet" href="gojax.min.js">
+	<script src="gojax.min.js"></script>
 </head>
 <body>
   <!-- Content -->
